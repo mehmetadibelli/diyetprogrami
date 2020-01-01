@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">mehmetadibelli</string>
+    <string name="Erkek">Erkek</string>
+    <string name="Kadin">Kadın</string>
+    <string name="Boy">Boy</string>
+    <string name="kilo_tv">Kilo</string>
+    <string name="Cinsiyet">Cinsiyet</string>
+    <string name="ideal_kilo_tv">İdeal Kilo</string>
+    <string name="Durum">Durum</string>
+    <string name="zayif">Zayıf Durumdasınız!</string>
+    <string name="ideal">İdeal Kilodasınız!</string>
+    <string name="fazla">Fazla Kilolusunuz.</string>
+    <string name="obez">Obezsiniz</string>
+    <string name="doktor">Doktora görünmeniz gerekiyor!</string>
+</resources>
