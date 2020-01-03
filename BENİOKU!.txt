@@ -1,7 +1,0 @@
-Ad: Mehmet Sait
-Soyad: Adıbelli
-Okul Numarası: 2018730001
-
-Not: Hocam merhaba, Vucut kitle indeksi hesaplamasını yaptım. Ve sayfalar arası geçişten bir
-örnek yapabildim, bilgisayarım aşırı kasıyordu bu yüzden çoğaltamadım ama hepsinin mantığı az çok
-aynı sanırım. Uygulama içi oyunuda maalesef yapamadım :(
