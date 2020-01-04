@@ -14,13 +14,14 @@
         android:layout_marginBottom="64dp"
 
         android:text="
-Vücudun ihtiyaç duyduğu kalori karşılanmadığında ya da başka bir deyişle düşük kalorili bir diyet uygulandığında vücut bu diyete adapte olarak
-kıtlık duygusuna kapılır. Vücut, metabolizma hızını düşürerek daha az enerji harcamaya başlar. Bu durum, diyet bırakıldığında çok kısa bir süre
-içinde verilen kilonun fazlasıyla geri alınmasına sebep olur. Sağlıklı bir zayıflama listesi ile kalıcı kilo verme sağlanır. Yaşam tarzında
-değişikliklere odaklı hazırlanan beslenme programları dengeli ve sağlıklı beslenmenin öğrenilmesini sağlar ve yaşam boyu fiziksel aktivite
-programı uygulanmasını destekler. Zayıflama listesi içeriğinde yer alan porsiyon miktarları önemlidir. Diyetinizi uygularken kan şekerinizin
-ve iştahınızın kontrolü için sık sık ve azar azar öğünler hazırlanır. Aynı saatlerde yemek yiyerek vücudunuzun metabolik saatini
-düzenleyebilir ve belirli saatlerde insülin salgılanmasını sağlayabilirsiniz. Böylece metabolizma hızınız artar."
+Şok Diyet olarak adı geçen beslenme listeleri, genellikle düşük kalorili ve vücudun almaması gereken besin öğelerini içerir. 
+Diyet sonucunda da yağdan değil kas ve su kaybından kilo kaybı olur. Bu kaybın devamında 
+kalp ritm bozukluğu görülebilir, metabolizma hızı düşebilir.
+                      
+Doğru ve yetersiz beslenme durumunda kişinin sağlığı ölümle sonuçlanmasa bile böbrek işlevini etkileyen sağlıksız diyetler, 
+kişiyi ömrünün sonuna kadar diyalize bağlı yaşamasıyla mecbur edebilir. 
+Bu nedenle çabuk kilo vermek adına uygulayacağınız zararlı diyetlerin yerine dengeli ve düzenli 
+beslenerek 3 ana ve 2 ara öğün olarak beslenmenize dikkat etmelisiniz."
         android:textSize="20sp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
@@ -33,7 +34,7 @@ düzenleyebilir ve belirli saatlerde insülin salgılanmasını sağlayabilirsin
         android:layout_height="53dp"
         android:ems="10"
         android:inputType="textPersonName"
-        android:text="Sağlıklı zayıflama diyet listesi nasıl uygulanmalıdır?"
+        android:text="Bilinçsiz yapılan diyetin sakıncaları"
         android:textSize="17sp"
         android:textStyle="bold"
         app:layout_constraintStart_toStartOf="parent"
