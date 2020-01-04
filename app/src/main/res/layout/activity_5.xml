@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Activity2">
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="102dp"
+        android:layout_marginBottom="64dp"
+
+        android:text="
+Vücudun ihtiyaç duyduğu kalori karşılanmadığında ya da başka bir deyişle düşük kalorili bir diyet uygulandığında vücut bu diyete adapte olarak
+kıtlık duygusuna kapılır. Vücut, metabolizma hızını düşürerek daha az enerji harcamaya başlar. Bu durum, diyet bırakıldığında çok kısa bir süre
+içinde verilen kilonun fazlasıyla geri alınmasına sebep olur. Sağlıklı bir zayıflama listesi ile kalıcı kilo verme sağlanır. Yaşam tarzında
+değişikliklere odaklı hazırlanan beslenme programları dengeli ve sağlıklı beslenmenin öğrenilmesini sağlar ve yaşam boyu fiziksel aktivite
+programı uygulanmasını destekler. Zayıflama listesi içeriğinde yer alan porsiyon miktarları önemlidir. Diyetinizi uygularken kan şekerinizin
+ve iştahınızın kontrolü için sık sık ve azar azar öğünler hazırlanır. Aynı saatlerde yemek yiyerek vücudunuzun metabolik saatini
+düzenleyebilir ve belirli saatlerde insülin salgılanmasını sağlayabilirsiniz. Böylece metabolizma hızınız artar."
+        android:textSize="20sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <EditText
+        android:id="@+id/editText3"
+        android:layout_width="497dp"
+        android:layout_height="53dp"
+        android:ems="10"
+        android:inputType="textPersonName"
+        android:text="Sağlıklı zayıflama diyet listesi nasıl uygulanmalıdır?"
+        android:textSize="17sp"
+        android:textStyle="bold"
+        app:layout_constraintStart_toStartOf="parent"
+        tools:layout_editor_absoluteY="49dp" />
+</androidx.constraintlayout.widget.ConstraintLayout>
